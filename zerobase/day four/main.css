@@ -1,0 +1,39 @@
+body{
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(10, 243, 204);
+}
+#total{
+    width: 1000px;
+    margin: auto;
+}
+#title{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    text-align: center;
+    opacity: 0.8;
+}
+p.sectitle{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+    border-bottom: solid #fff;
+    width: 1000px;
+    margin: auto;
+
+}
+ul.third{
+    list-style:none;
+
+}
+#left{
+    width: 80%;
+    float: left;
+
+}
+#img{
+    position: relative;
+}
+
